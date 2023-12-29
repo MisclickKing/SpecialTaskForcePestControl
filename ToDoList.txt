@@ -1,0 +1,14 @@
+MUST DOs
+
+ -Finish enemy states and add damage to player
+ -Add a game over state for the player after they hit 0 health
+ -Add a menu menu to load up the game
+ -Control menu
+ -Credits menu
+ -Bigger  enemy/Boss fight
+
+BONUS
+
+ -More Ammo types
+ -Music/Audio
+ -More enemies 

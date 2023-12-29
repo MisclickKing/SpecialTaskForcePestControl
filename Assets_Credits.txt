@@ -1,0 +1,7 @@
+Asset: Water Texture
+ Name: Artur Kokotov
+ Site: https://assetstore.unity.com/packages/2d/textures-materials/water/unlit-stylized-water-pack-142285
+
+Asset: Spider Green
+ Name: PolyNext
+ Site: https://assetstore.unity.com/packages/3d/characters/animals/insects/spider-green-11869
